@@ -11,9 +11,10 @@ Objectives:
 2: Create a Regression and Classification model
 
 
+
 In the USLM file the goal was to identify clusters in the data 
 
-Task - Build Unsupervised Learning Models (Clustering)
+Task: Build Unsupervised Learning Models (Clustering)
 
 Note 1: The last column (material) of the unique_m.csv file is an identifier and should be discarded and not used in the analysis
 
