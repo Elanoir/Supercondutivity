@@ -8,6 +8,7 @@ Objectives 1: Dimensionality Reduction
 
 Objective 2: Create a Regression and Classification model 
 <br />
+<br />
 
 
 In the USLM file the goal was to identify clusters in the data 
