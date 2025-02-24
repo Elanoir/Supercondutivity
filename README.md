@@ -6,7 +6,7 @@ Task: Build Supervised Learning Models
 
 Objectives 1: Dimensionality Reduction
 
-Objective 2: Create a Regression and Classification model n\
+Objective 2: Create a Regression and Classification model /n
 
 
 
