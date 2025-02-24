@@ -4,11 +4,9 @@ In the SLM file the goal was to predict the critical temperature based on the fe
 
 Task: Build Supervised Learning Models
 
-Objectives: 
+Objectives 1: Dimensionality Reduction
 
-1: Dimensionality Reduction
-
-2: Create a Regression and Classification model
+Objective 2: Create a Regression and Classification model n\\
 
 
 
@@ -20,9 +18,7 @@ Note 1: The last column (material) of the unique_m.csv file is an identifier and
 
 Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 as described below
 
-Objectives:
-
-1:Clustering
+Objective 1: Clustering
 
 Using the data from the train.csv file determine the best clustering approach able to classify this dataset
 
@@ -31,7 +27,7 @@ compare both approaches in computational performance and clustering quality (usi
 
 WARNING: columns may have VERY different ranges. This should be handled adequately
 
-2: Evaluating clustering with extrinsic methods
+Objective 2: Evaluating clustering with extrinsic methods
 
 Create the following Classes for the dependent variable (critical_temp):
 
