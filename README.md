@@ -17,7 +17,7 @@ Task: Build Unsupervised Learning Models (Clustering)
 
 Note 1: The last column (material) of the unique_m.csv file is an identifier and should be discarded and not used in the analysis
 
-Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 as described below
+Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 
 
 Objective 1: Clustering
 
