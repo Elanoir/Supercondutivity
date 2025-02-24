@@ -1,5 +1,6 @@
 Dataset: UCI Supercoductivity Data
-
+<br />
+<br />
 In the SLM file the goal was to predict the critical temperature based on the features extracted.
 
 Task: Build Supervised Learning Models
@@ -9,7 +10,6 @@ Objectives 1: Dimensionality Reduction
 Objective 2: Create a Regression and Classification model 
 <br />
 <br />
-
 
 In the USLM file the goal was to identify clusters in the data 
 
