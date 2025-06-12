@@ -46,7 +46,7 @@ High - critical_temp in [20.0, 100.0,[
 
 VeryHigh - critical_temp in >= 100.0
 
-With the clusters produced in objective 2, using extrinsic methods, verify the quality of each model, for both the train.csv and the unique_m.csv clusters
+### Extra: With the clusters produced in objective 2, using extrinsic methods, verify the quality of each model, for both the train.csv and the unique_m.csv clusters
 
 ## 🛠️ Tools
 - Python (Pandas, NumPy, scikit-learn)
