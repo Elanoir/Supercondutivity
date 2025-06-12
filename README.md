@@ -4,7 +4,6 @@
 - Source: https://archive.ics.uci.edu/dataset/464/superconductivty+data 
 - Format: CSV
 <br />
-<br />
 
 ## Task 1: Build Supervised Learning Models
 In the SLM file the goal was to predict the critical temperature based on the features extracted.
@@ -13,14 +12,11 @@ In the SLM file the goal was to predict the critical temperature based on the fe
 ### 1: Dimensionality Reduction
 ### 2: Create a Regression and Classification model 
 <br />
-<br />
 
 ## Task 2: Build Unsupervised Learning Models (Clustering)
 In the USLM file the goal was to identify clusters in the data 
-
-Note 1: The last column (material) of the unique_m.csv file is an identifier and should be discarded and not used in the analysis
-
-Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 
+- Note 1: The last column (material) of the unique_m.csv file is an identifier and should be discarded and not used in the analysis
+- Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 
 
 ## 🔍 Objectives
 ### 1: Clustering
@@ -40,7 +36,7 @@ Create the following Classes for the dependent variable (critical_temp):
 - Medium - critical_temp in [5.0, 20.0,[
 - High - critical_temp in [20.0, 100.0,[
 - VeryHigh - critical_temp in >= 100.0
-<br />
+
 Verify the quality of each model, for both the train.csv and the unique_m.csv clusters
 
 ## 🛠️ Tools
@@ -50,7 +46,7 @@ Verify the quality of each model, for both the train.csv and the unique_m.csv cl
 ## 📈 Methodologies
 1. **Processing Data**
 2. **Dimensionality Reduction SVD**
-4. **Regression and Classificatiom Models**
+4. **Regression and Classificatiom Models Evaluation**
 5. **Discussion**
 
 ## 💡 Findings
