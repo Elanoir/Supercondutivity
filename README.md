@@ -1,8 +1,8 @@
 # 📊 Supercondutivity
 
 ## 🗃️ Dataset: UCI Supercoductivity Data
-Source: https://archive.ics.uci.edu/dataset/464/superconductivty+data 
-Format: CSV
+- Source: https://archive.ics.uci.edu/dataset/464/superconductivty+data 
+- Format: CSV
 <br />
 <br />
 
@@ -35,18 +35,13 @@ WARNING: columns may have VERY different ranges. This should be handled adequate
 ### 2: Evaluating clustering with extrinsic methods
 
 Create the following Classes for the dependent variable (critical_temp):
-
-VeryLow - critical_temp in [0.0, 1.0,[
-
-Low - critical_temp in [1.0, 5.0,[
-
-Medium - critical_temp in [5.0, 20.0,[
-
-High - critical_temp in [20.0, 100.0,[
-
-VeryHigh - critical_temp in >= 100.0
-
-### Extra: With the clusters produced in objective 2, using extrinsic methods, verify the quality of each model, for both the train.csv and the unique_m.csv clusters
+- VeryLow - critical_temp in [0.0, 1.0,[
+- Low - critical_temp in [1.0, 5.0,[
+- Medium - critical_temp in [5.0, 20.0,[
+- High - critical_temp in [20.0, 100.0,[
+- VeryHigh - critical_temp in >= 100.0
+<br />
+Verify the quality of each model, for both the train.csv and the unique_m.csv clusters
 
 ## 🛠️ Tools
 - Python (Pandas, NumPy, scikit-learn)
