@@ -1,25 +1,27 @@
-Dataset: UCI Supercoductivity Data
+# 📊 Supercondutivity
+
+## 🗃️ Dataset: UCI Supercoductivity Data
 <br />
 <br />
+
+## Task: Build Supervised Learning Models
 In the SLM file the goal was to predict the critical temperature based on the features extracted.
 
-Task: Build Supervised Learning Models
-
-Objectives 1: Dimensionality Reduction
-
-Objective 2: Create a Regression and Classification model 
+## 🔍 Objectives
+### 1: Dimensionality Reduction
+### 2: Create a Regression and Classification model 
 <br />
 <br />
 
+## Task: Build Unsupervised Learning Models (Clustering)
 In the USLM file the goal was to identify clusters in the data 
-
-Task: Build Unsupervised Learning Models (Clustering)
 
 Note 1: The last column (material) of the unique_m.csv file is an identifier and should be discarded and not used in the analysis
 
 Note 2 The last column is the Dependent Variable (critical_temp) and should not be used in the analysis, except in Objective 2 
 
-Objective 1: Clustering
+## Objectives
+### 1: Clustering
 
 Using the data from the train.csv file determine the best clustering approach able to classify this dataset
 
@@ -28,7 +30,7 @@ compare both approaches in computational performance and clustering quality (usi
 
 WARNING: columns may have VERY different ranges. This should be handled adequately
 
-Objective 2: Evaluating clustering with extrinsic methods
+### 2: Evaluating clustering with extrinsic methods
 
 Create the following Classes for the dependent variable (critical_temp):
 
