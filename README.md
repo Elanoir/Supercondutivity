@@ -50,10 +50,11 @@ Verify the quality of each model, for both the train.csv and the unique_m.csv cl
 5. **Discussion**
 
 ## 💡 Findings
-- Dimensionality Reduction of 167 variables data showed that the first 84 components explains 87% of the data.
+- Dimensionality Reduction of 167 variables data showed that the first 84 components explains 87% of the data
 - Decision Tree Regressor achieved an EVS of 88.6% using all 167 variables
 - An EVS of 86.4% was achieved using only the first 65 components
 - Decision Tree Classifier achieved an accuracy of 81%
 - Using the first 65 components achieves the same accuracy
 - The Classifier have a good performance with much less data
-- Gaussian Naive Bayes Classifier showed a poorer performance when compared to Decision Trees.
+- Gaussian Naive Bayes Classifier showed a poorer performance when compared to Decision Trees
+
